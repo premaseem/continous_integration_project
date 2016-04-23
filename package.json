@@ -1,0 +1,28 @@
+{
+  "name": "continous_integration_project",
+  "version": "1.0.0",
+  "description": "This project demonstrates the CI loop on cloud using jenkins :-)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premaseem/continous_integration_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premaseem/continous_integration_project/issues"
+  },
+  "homepage": "https://github.com/premaseem/continous_integration_project#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.3.1",
+    "supertest": "^1.2.0"
+  }
+}
